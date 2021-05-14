@@ -6,12 +6,12 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-Programmer, butique software house co-founder, lifelong learner.
+Programmer, boutique software house co-founder, lifelong learner.
 
 ## Links
 
-* [Traveling](https://admiring-diversity.pl/en/page/3/)
-* [/dev](https://slashdev.team/)
+* [my travels](https://admiring-diversity.pl/en/page/3/)
+* [/dev (software house)](https://slashdev.team/)
 
 ## Publications
 
