@@ -1,4 +1,4 @@
-title = "Jakub Pietrucha (mandross)"
+title = "Jakub Pietrucha"
 baseURL = "https://mandross.dev/"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
@@ -17,7 +17,7 @@ googleAnalytics = ""  # add your tracking id
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"
-    avatarSize = "90px"
+    avatarSize = "100px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
   [[params.socialIcons]]
@@ -35,16 +35,6 @@ googleAnalytics = ""  # add your tracking id
 
 [permalinks]
   "/" = "/:filename"
-
-[menu]
-  [[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 1
-  [[menu.main]]
-    name = "Blog"
-    url = "/blog"
-    weight = 1
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
