@@ -6,12 +6,12 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-CEO of autonomous field robot company, programmer, boutique software house co-founder, lifelong learner.
+Founder of autonomous field robot company, programmer, boutique software house co-founder, lifelong learner.
 
 ## Links
 
 * [my travels](https://admiring-diversity.pl/en/page/3/)
-* [Unitem Mower (robot company)](https://unitemmower.com/)
+* [robo.ag (robot company)](https://robo.ag/)
 * [/dev (software house)](https://slashdev.team/)
 
 ## Publications
